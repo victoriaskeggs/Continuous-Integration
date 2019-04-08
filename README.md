@@ -1,1 +1,3 @@
-SE754_Assignment3
+#SE754_Assignment3
+
+[![Build Status](https://travis-ci.com/victoriaskeggs/SE754-Assignment-3.svg?token=eWsTnkpYbqs1XmDyNxn4&branch=master)](https://travis-ci.com/victoriaskeggs/SE754-Assignment-3)
